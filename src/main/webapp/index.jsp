@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello abc" %></h2>
+<h2><%= "Hello xyz" %></h2>
 </body>
 </html>
